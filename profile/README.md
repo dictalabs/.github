@@ -1,11 +1,17 @@
-## Securing Digital Frontiers, One Key At A Time
+## About us
 
-### On a mission to empower businesses with robust and secure digital tools, ensuring data integrity, identity verification, and application protection. 
+#### Dictalabs is a leading software development agency specializing in PKI (Public Key Infrastructure), Digital Signature Solutions, and Certification Authority (CA) services. With a team of seasoned experts, we bring together a wealth of experience and knowledge to provide our clients with top-notch services and products. Our passion for technology and security fuels our drive to stay ahead of the curve and offer solutions that cater to the ever-evolving challenges of the digital world. 
 
-- Empowering businesses with digital transformation
-- Commitment to Innovation and digital security
-- Ensuring trust, Integrity and reliability
+Services\
+📝 Digital Signature Implementation\
+🔐 Certification Authority (CA) Solutions\
+📄 Document Security Consulting\
+🔐 Hardware Security Module (HSM) Consulting\
+💻 Software Development\
+🚀 Product Innovation
 
+Specialites\
+PKI, CA, Software Development, HSMs, SmartCards, eSignatures, Digital Signatures, PDF Signatures, eIDAS, Common Criteria, Web Applications, APIs, Cloud Services, Web RA, OCSP Server, TSA Server, Application Security, Digital Certificates, Authentications, and Digital Identity
 <!--
 
 **Here are some ideas to get you started:**
